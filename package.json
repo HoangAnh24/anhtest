@@ -12,6 +12,7 @@
     "chromedriver": "^91.0.1",
     "geckodriver": "^2.0.0",
     "iedriver": "^3.150.1",
+    "nightwatch": "^1.7.6",
     "selenium-server": "^3.141.59"
   }
 }
