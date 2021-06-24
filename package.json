@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-add-module-exports": "^1.0.4",
+    "babel-preset-es2015": "^6.24.1",
     "chromedriver": "^91.0.1",
     "geckodriver": "^2.0.0",
     "iedriver": "^3.150.1",
